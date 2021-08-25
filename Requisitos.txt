@@ -1,0 +1,12 @@
+Cadastrar, modificar e excluir Categorias
+Cadastrar, modificar e excluir Produtos
+Cadastrar, modificar e excluir Fornecedores
+Cadastrar, modificar e excluir Clientes
+Cadastrar, modificar e excluir Funcionários
+
+Caixa: o que um sistema de caixa deve ter.
+
+Relatório geral de vendas
+Relatório de vendas por data
+Relatório de produtos mais vendidos
+Relatório de clientes que mais compram e o que mais compraram
